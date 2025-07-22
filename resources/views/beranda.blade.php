@@ -13,6 +13,7 @@
             font-family: 'Inter', sans-serif;
             overflow-x: hidden;
         }
+        
 
         .navbar {
             display: flex;
